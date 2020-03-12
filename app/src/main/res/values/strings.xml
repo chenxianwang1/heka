@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hello</string>
+    <string name="happy">happy birthday</string>
+    <string name="mingzi">your jerry</string>>
+    <string name="bg" translatable="false">todo</string>>
+
+</resources>
