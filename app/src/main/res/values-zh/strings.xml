@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Hello</string>
-    <string name="happy">生日快乐</string>
-    <string name="mingzi">杰瑞</string>
+    <string name="button">转换为华氏温度</string>
+    <string name="temp_1">请输入摄氏度</string>
+    <string name="out">结果是</string>
+    <string name="iuput_number">输入摄氏度</string>
 </resources>

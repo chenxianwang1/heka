@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">hello</string>
-    <string name="happy">happy birthday</string>
-    <string name="mingzi">your jerry</string>>
-    <string name="bg" translatable="false">todo</string>>
+    <string name="app_name">Hello</string>
+    <string name="button">shuru</string>
+    <string name="temp_1">input the temperture</string>
+    <string name="out">shuchu</string>
+    <string name="iuput_number">input the number</string>
+
 
 </resources>
