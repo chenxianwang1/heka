@@ -148,7 +148,7 @@ public class RateActivity extends AppCompatActivity implements Runnable {
             Log.i(TAG,"onActivityResult:euroRate"+euroRate);
             Log.i(TAG,"onActivityResult:wonRate"+wonRate);
 
-            //将新设置的汇率保存在Sp里
+
             SharedPreferences sharedPreferences = getSharedPreferences("myrate", Activity.MODE_PRIVATE);
             SharedPreferences.Editor editor = sharedPreferences.edit();
             editor.putFloat("dollar_rate",dollarRate);
