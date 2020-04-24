@@ -3,7 +3,14 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
+        android:title="Setting"
         android:id="@+id/menu_set"
-        app:showAsAction="always"
-        android:title="@string/menu_set_label" />
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/open_list"
+        android:title="@string/label_open_list"
+        app:showAsAction="ifRoom" />
+
+
+
 </menu>
