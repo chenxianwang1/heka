@@ -161,7 +161,7 @@ public class RateActivity extends AppCompatActivity implements Runnable {
             openConfig();
         }else if(item.getItemId()==R.id.open_list){
             //打开列表窗口
-            Intent list = new Intent(this, RateListActivity.class);
+            Intent list = new Intent(this, MyList2Activity.class);
             startActivity(list);
 
         }
@@ -307,7 +307,7 @@ public class RateActivity extends AppCompatActivity implements Runnable {
                 int rsz = in.read(buffer, 0, buffer.length);
                 if (rsz < 0)
                     break;
-                    out.append(buffer, 0, rsz);
+                out.append(buffer, 0, rsz);
 
 
             }

@@ -16,5 +16,9 @@
     <string name="btn_save_label">Save</string>
     <string name="menu_set_label">Setting</string>
     <string name="label_open_list">OpenList</string>
+    <string name="research_lable">research</string>
+    <string name="iuput_lable">input</string>
+    <string name="hint_input">input the key words</string>
+
 
 </resources>
