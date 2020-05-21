@@ -22,7 +22,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".query" />
-        <activity android:name=".RateCalcActivity" android:theme="@style/Base.Theme.AppCompat.Dialog" ></activity>
+        <activity android:name=".RateCalcActivity" android:theme="@style/Theme.AppCompat.Dialog" ></activity>
         <activity android:name=".MyAdapter" />
         <activity android:name=".Myadapter" />
         <activity android:name=".MyAdapterActivity" />
